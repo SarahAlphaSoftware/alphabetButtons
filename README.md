@@ -19,3 +19,11 @@ Check out the documentation articles below to learn more about the features and 
 - [listObj.filterListClientSide()](https://documentation.alphasoftware.com/documentation/index?search=list%20object%20filterlistclientside%20method)
 - [{dialog.object}._filterList()](https://documentation.alphasoftware.com/documentation/index?search=ux%20component%20_filterlist%20method)
 - [Working With SQL Data Using Xbasic - SQL Query Genie](https://documentation.alphasoftware.com/documentation/index?search=xbasic%20guide%20sql#section2_SQL%20Query%20Genie)
+
+# How to Download and Install this Project
+
+1. In Alpha Anywhere, go to File > New Project
+2. Select the "Create Project from a GitHub Repository" option
+3. Enter a Project Name.
+4. Copy the URL for this repository from the Web Browser and paste it in the "URL" textbox
+5. Click "OK" to create the Project
